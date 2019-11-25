@@ -52,7 +52,7 @@
         </javaClientGenerator>
 
         <!-- 指定数据库表 -->
-        <table schema="" tableName="alicms_invite_extra" domainObjectName="InviteExtra"
+        <table schema="" tableName="alicms_invite_snapshot" domainObjectName="InviteInviteSnapshot"
                enableCountByExample="false" enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false">
