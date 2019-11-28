@@ -52,7 +52,7 @@
         </javaClientGenerator>
 
         <!-- 指定数据库表 -->
-        <table schema="" tableName="alicms_invite_snapshot" domainObjectName="InviteInviteSnapshot"
+        <table schema="" tableName="alicms_invite_log_day" domainObjectName="InviteLogDay"
                enableCountByExample="false" enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false">
